@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notas
-permalink: /version-2019/notas/
+permalink: /version-2019/notas.html
 ---
 # Ponderaciones:
 
