@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notas
+permalink: /version-2019/notas/
 ---
 # Ponderaciones:
 
@@ -12,12 +13,7 @@ El curso cuenta con 3 tareas repartidas durante todo el semestre.
 
 ## Proyecto
 
-Para el desarrollo del proyecto semestre existen 4 categorías de proyecto que pueden ser escogidas:
-
-- Crear un nuevo idiom.
-- Replicar un idiom de un paper.
-- Visualizar una base de datos.
-- Explicar un algoritmo.
+Para el desarrollo del proyecto semestre el foco principal será la visualización de datos relacionados con algoritmos de _machine learning_.
 
 
 Este proyecto cuenta con 3 entregas con ponderación diferente:
@@ -35,8 +31,3 @@ El curso cuenta con 2 controles los cuales evalúan la materia de forma acumulat
 - Nota proyecto final mayor o igual a 3,95.
 
 # Notas
-
-
-Espere que está cargando el spreadsheets con las notas. Tambien puede verlo en este [link](https://docs.google.com/spreadsheets/d/16Vwbku6gyZGjlanp5RlObUlzdAn4RTynlBc7NtVDHFs/edit#gid=0).
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQX3gaLvyKLUmbslI8h7RXOqW5TRDvlG6S__8piv0SytTP7BITqN4KWTVI4BbQsfiwC6PJ4KdFMRVcm/pubhtml?widget=true&amp;headers=false"  style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
