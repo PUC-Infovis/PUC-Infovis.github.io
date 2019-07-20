@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proyectos 
-permalink: /version-2019/proyectos.html
+
 ---
 
 # Proyectos
