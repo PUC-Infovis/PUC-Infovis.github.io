@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Material 
-permalink: /version-2019/material/
+permalink: /version-2019/material.html
 ---
 
 # Repositorio del curso:
