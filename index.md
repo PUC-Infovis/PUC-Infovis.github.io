@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Página Principal
-permalink: /version-2019/index.html
 ---
 # Visualización de Información
 ## PUC Chile
