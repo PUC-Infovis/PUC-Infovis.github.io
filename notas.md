@@ -9,7 +9,7 @@ title: Notas
 
 ## Tareas
 
-El curso cuenta con 3 tareas repartidas durante todo el semestre.
+El curso cuenta con 3 tareas repartidas durante todo el semestre, cada una cuenta con una diferente ponderación.
 
 ## Proyecto
 
