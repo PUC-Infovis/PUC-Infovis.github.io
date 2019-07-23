@@ -31,3 +31,5 @@ El curso cuenta con 2 controles los cuales evalúan la materia de forma acumulat
 - Nota proyecto final mayor o igual a 3,95.
 
 # Notas
+
+Proximamente
