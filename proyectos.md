@@ -6,7 +6,12 @@ title: Proyectos
 
 # Proyectos
 
-En esta sección podrás encontrar links a los proyectos del semestre pasado.
+En esta sección podrás encontrar links a algunos proyectos de semestres pasados. Para algunos será necesario que hagan _zoom out_ para poder ver la visualización como corresponde.
 
-- [Recomendación y comparación de anime](https://puc-infovis.github.io/Proyecto-2018-1-Anime/)
-- [Política](https://puc-infovis.github.io/Proyecto-2018-1-Politica/)
+## 2018
+- [Constitución](https://puc-infovis.github.io/Proyecto-2018-Constitution/)
+
+
+## 2017
+- [Recomendación y comparación de anime](https://puc-infovis.github.io/Proyecto-2017-Anime/)
+- [Política](https://puc-infovis.github.io/Proyecto-2017-Politica/)
