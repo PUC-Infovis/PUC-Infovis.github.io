@@ -3,7 +3,7 @@
 
 **Equipo Docente**
 - Profesor: [Denis Parra](http://web.ing.puc.cl/~dparra/)
-- Ayudantes: Fernando Florenzano, Hernán Valdivieso, Cristóbal Abarca
+- Ayudantes: Hernán Valdivieso, Vicente Valencie y Eugenio Herrera
 
 
 <!-- 
