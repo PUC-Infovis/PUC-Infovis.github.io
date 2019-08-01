@@ -58,3 +58,11 @@ Se recomienda **fuertemente** utilizar Git desde la terminal. Si no estás famil
 ## Ayudantías del curso
 
 Próximamente
+
+## Links de interes
+1. [Ejemplos básicos de D3](https://www.d3-graph-gallery.com/index.html). **Importante**: Estos ejemplos están con versión antigua, (V4) y en el curso se utiliza V5, y no están en estándar [ES6](https://www.w3schools.com/js/js_es6.asp). Solo son ejemplos para que pueden familiarizarse con D3 y sacar ideas. 
+2. [Catálogo de visualizaciones](https://datavizcatalogue.com/ES/)
+3. [Ejemplos de D3 creados por Mike Bostock](https://bost.ocks.org/mike/)
+4. [Ejemplos de visualizaciones en Observable](https://observablehq.com/collection/@observablehq/visualization)
+5. [Explicación con D3 de enter, update & exit](https://observablehq.com/@d3/selection-join)
+6. [Formas de crear SVG en Observable](https://observablehq.com/@hernan4444/formas-de-crear-svg)
