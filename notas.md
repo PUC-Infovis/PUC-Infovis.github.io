@@ -11,6 +11,12 @@ title: Notas
 
 El curso cuenta con 3 tareas repartidas durante todo el semestre, cada una cuenta con una diferente ponderación.
 
+| Tareas | Ponderación |
+| ------ | ----------- |
+|   01   |    20%      |
+|   02   |    40%      |
+|   03   |    40%      |
+
 ## Proyecto
 
 Para el desarrollo del proyecto semestre el foco principal será la visualización de datos relacionados con algoritmos de _machine learning_.
@@ -24,6 +30,10 @@ Este proyecto cuenta con 3 entregas con ponderación diferente:
 ## Controles
 
 El curso cuenta con 2 controles los cuales evalúan la materia de forma acumulativa e incluyen la lectura de un paper notificado con antipicación durante el desarrollo del curso. Con evaluar de forma acumulativa se entiende con que toda la materia evaluada en el control 1 puede volver a ser preguntada en el control 2.
+
+## Participación
+
+Este ítem será evaluado mediante pequeñas actividades propuestas por el profesor o ayudantes durante el desarrollo del curso. Cada actividad puede contar con una ponderación distinta y requerirán el uso de computador para resolverlas.
 
 ## Condiciones para aprobar
 - Promedio final mayor o igual a 3,95.
