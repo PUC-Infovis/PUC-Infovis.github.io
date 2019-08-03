@@ -13,6 +13,6 @@ title: Página Principal
 
 ## Planificación
 
-Espere que está cargando el spreadsheets con la planificación.
+El _spreadsheets_ con la planificación puede tardar un poco en cargar.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxcrC3tRa-E2VVM3mzQG1qxjdFhQj3u_JVyEJWDWVs9YbUUkj_3Bor1sjMUUtddrb-KehHHhklrjSg/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="100%" height="400"></iframe>
