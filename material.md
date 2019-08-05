@@ -21,7 +21,7 @@ Git permite **rastrear cambios** en archivos computacionales y compartirlos, sie
 
 ### ¿Para qué?
 
-Aquí expondré una lista de múltiples ventajas relacionadas al uso de Git. Y si bien algunas de ellas toman protagonismo cuando desarrollamos un proyecto en equipo, es importante destacar que la mayoría de ellas **también se aplican en solitario**. Además, para practicar, es una buena idea usar Git en proyectos personales.
+Aquí se expondrá una lista de múltiples ventajas relacionadas al uso de Git. Y si bien algunas de ellas toman protagonismo cuando desarrollamos un proyecto en equipo, es importante destacar que la mayoría de ellas **también se aplican en solitario**. Además, para practicar, es una buena idea usar Git en proyectos personales.
 
 Esta herramienta nos permite
 - llevar un registro de múltiples versiones de un archivo,
@@ -31,8 +31,7 @@ Esta herramienta nos permite
 - revisar el historial de cierto fragmento de código,
 - rastrear _bugs_, para saber qué (carajo) fue lo que rompió el software.
 
-Y si ya estás familiarizado con algunos comandos básicos (e.g. [_clone_](https://git-scm.com/docs/git-clone), [_status_](https://git-scm.com/docs/git-status), [_add_](https://git-scm.com/docs/git-add), [_commit_](https://git-scm.com/docs/git-commit), [_push_](https://git-scm.com/docs/git-push), [_pull_](https://git-scm.com/docs/git-pull)), quiero enfatizar que Git, gracias a su notable flexibilidad,
-nos puede entregar **mucho** más que eso.
+Y si ya están familiarizados con algunos comandos básicos (e.g. [_clone_](https://git-scm.com/docs/git-clone), [_status_](https://git-scm.com/docs/git-status), [_add_](https://git-scm.com/docs/git-add), [_commit_](https://git-scm.com/docs/git-commit), [_push_](https://git-scm.com/docs/git-push), [_pull_](https://git-scm.com/docs/git-pull)), queremos enfatizar que Git, gracias a su notable flexibilidad, entrega **mucho** más que eso.
 
 ### ¿Dónde partir?
 
@@ -52,12 +51,12 @@ Hay cientos de tutoriales dando vueltas por las _interwebs_. Aquí algunas para 
 - [_**Pro Git**_](https://git-scm.com/book/en/v2)  
   De mucha más profundidad, aquí tienes el libro _oficial_ para aprender _todo_ acerca de Git: desde los comandos fundamentales hasta los conceptos más rebuscados.
 
-Se recomienda **fuertemente** utilizar Git desde la terminal. Si no estás familiarizado con tu uso, puedes partir buscando "_Command line tutorials_" en Google.
+Se recomienda **fuertemente** utilizar Git desde la terminal. Si no están familiarizado con su uso, pueden partir buscando "_Command line tutorials_" en Google.
 
 
 ## Ayudantías del curso
 
-Próximamente
+1. [Ayudantía preliminar: Uso de pandas](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia00)
 
 ## Links de interes
 1. [Ejemplos básicos de D3](https://www.d3-graph-gallery.com/index.html). **Importante**: Estos ejemplos están con versión antigua, (V4) y en el curso se utiliza V5, y no están en estándar [ES6](https://www.w3schools.com/js/js_es6.asp). Solo son ejemplos para que pueden familiarizarse con D3 y sacar ideas. 
