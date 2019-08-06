@@ -65,3 +65,4 @@ Se recomienda **fuertemente** utilizar Git desde la terminal. Si no están famil
 4. [Ejemplos de visualizaciones en Observable](https://observablehq.com/collection/@observablehq/visualization)
 5. [Explicación con D3 de enter, update & exit](https://observablehq.com/@d3/selection-join)
 6. [Formas de crear SVG en Observable](https://observablehq.com/@hernan4444/formas-de-crear-svg)
+7. [Grupo de telegram de alumnos para alumnos](https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA). Este grupo **no es oficial**, toda la información será dada mediante Github o Siding, pero este grupo es para que todos puedan tener un medio fácil de conversar entre ustedes.
