@@ -6,7 +6,7 @@ title: Proyectos
 
 # Proyectos
 
-En esta sección podrás encontrar links a algunos proyectos de semestres pasados. Para algunos proyectos **será necesario que hagan _zoom out_** para poder ver la visualización como corresponde.
+En esta sección podrás encontrar links a algunos proyectos de semestres pasados. Con algunos proyectos **será necesario que hagan _zoom out_** para poder ver la visualización como corresponde.
 
 ## 2018
 - [Constitución](https://puc-infovis.github.io/Proyecto-2018-Constitution/)
