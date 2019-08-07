@@ -10,6 +10,7 @@ Todas las clases y ayudantías están en el [Syllabus](https://github.com/PUC-In
 
 
 # Slides Clases
+* [1 - Introducción](https://github.com/PUC-Infovis/syllabus-2019/blob/master/Clases/Clase%2001%20-%20Introduccio%CC%81n.pdf)
 
 # Ayudantías
 
