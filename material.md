@@ -54,10 +54,11 @@ Hay cientos de tutoriales dando vueltas por las _interwebs_. Aquí algunas para 
 
 Se recomienda **fuertemente** utilizar Git desde la terminal. Si no están familiarizado con su uso, pueden partir buscando "_Command line tutorials_" en Google.
 
+Adicionalmente se ha publicado una [guía de Git](https://github.com/PUC-Infovis/syllabus-2019/blob/master/ayudantias/Material%20Adicional/GitUsage.pdf) que fue creada y editada por Alfonso Irarrázaval para otro curso (IIC2343), pero que ahora nos permitió utilizarla para este curso. 
 
 ## Ayudantías del curso
 
-1. [Ayudantía preliminar: Uso de pandas](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia00)
+1. [Ayudantía preliminar: Uso de pandas, visualización y _machine learning_](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia00)
 
 ## Links de interes
 1. [Ejemplos básicos de D3](https://www.d3-graph-gallery.com/index.html). **Importante**: Estos ejemplos están con versión antigua, (V4) y en el curso se utiliza V5, y no están en estándar [ES6](https://www.w3schools.com/js/js_es6.asp). Solo son ejemplos para que pueden familiarizarse con D3 y sacar ideas. 
