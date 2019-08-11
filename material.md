@@ -54,7 +54,7 @@ Hay cientos de tutoriales dando vueltas por las _interwebs_. Aquí algunas para 
 
 Se recomienda **fuertemente** utilizar Git desde la terminal. Si no están familiarizado con su uso, pueden partir buscando "_Command line tutorials_" en Google.
 
-Adicionalmente se ha publicado una [guía de Git](https://github.com/PUC-Infovis/syllabus-2019/blob/master/ayudantias/Material%20Adicional/GitUsage.pdf) que fue creada y editada por Alfonso Irarrázaval para otro curso (IIC2343), pero que ahora nos permitió utilizarla para este curso. 
+Adicionalmente se ha publicado una [**guía de Git**](https://github.com/PUC-Infovis/syllabus-2019/blob/master/ayudantias/Material%20Adicional/GitUsage.pdf) que fue creada y editada por Alfonso Irarrázaval para otro curso (IIC2343), pero que ahora nos permitió utilizarla para este curso. 
 
 ## Ayudantías del curso
 
