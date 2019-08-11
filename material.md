@@ -60,7 +60,9 @@ Adicionalmente se ha publicado una [guía de Git](https://github.com/PUC-Infovis
 
 1. [Ayudantía preliminar 1: Caso de uso de pandas (material 2018)](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia00/material_anterior)
 
-1. [Ayudantía preliminar 2: Uso de pandas, visualización y _machine learning_](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia00)
+2. [Ayudantía preliminar 2: Uso de pandas, visualización y _machine learning_](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia00)
+
+3. [Ayudantía 1 - Parte 1: Introducción a Html y css](https://github.com/PUC-Infovis/syllabus-2019/tree/master/ayudantias/ayudantia01)
 
 
 ## Links de interes
