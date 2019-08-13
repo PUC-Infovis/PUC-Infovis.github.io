@@ -11,6 +11,10 @@ title: Página Principal
 - Ayudantes: Hernán Valdivieso, Vicente Valencie, Eugenio Herrera y Alfonso Irarrázaval
 - Textbook: [Visualization Analysis and Design by Munzner](https://www.cs.ubc.ca/~tmm/vadbook/)
 
+**Horario de ayuda**
+
+Avisar con anticipación vía mail, horarios por definir
+
 ## Planificación
 
 El _spreadsheets_ con la planificación puede tardar un poco en cargar. **Importante** el orden de algunas clases (casillas en blanco) puede variar a criterio del profesor con el fin de beneficiar al alumno en el desarrollo de las tareas o proyecto.
