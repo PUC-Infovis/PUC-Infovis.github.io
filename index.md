@@ -8,7 +8,7 @@ title: Página Principal
 
 **Equipo Docente**
 - Profesor: [Denis Parra](http://web.ing.puc.cl/~dparra/)
-- Ayudantes históticos: Nebil, Kawas, Fernando Florenzano, Hernán Valdivieso, Cristobal Abarca, Vicente Valencie, Eugenio Herrera y Alfonso Irarrázaval
+- Ayudantes históricos: Nebil, Kawas, Fernando Florenzano, Hernán Valdivieso, Cristobal Abarca, Vicente Valencie, Eugenio Herrera y Alfonso Irarrázaval
 - Textbook: [Visualization Analysis and Design by Munzner](https://www.cs.ubc.ca/~tmm/vadbook/)
 
 ## Versiones del curso
