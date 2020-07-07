@@ -7,7 +7,7 @@ title: Página Principal
 
 
 **Equipo Docente**
-- Profesor: [Denis Parra](http://web.ing.puc.cl/~dparra/)
+- Profesor: Fernando Florenzano (faflorenzano@ing.puc.cl)
 - Ayudantes históricos: Nebil Kawas, Fernando Florenzano, Hernán Valdivieso, Cristobal Abarca, Vicente Valencia, Eugenio Herrera y Alfonso Irarrázaval
 - Textbook: [Visualization Analysis and Design by Munzner](https://www.cs.ubc.ca/~tmm/vadbook/)
 
@@ -15,3 +15,4 @@ title: Página Principal
 
 - 2018: [https://puc-infovis.github.io/version-2018/](https://puc-infovis.github.io/version-2018/)
 - 2019: [https://puc-infovis.github.io/version-2019/](https://puc-infovis.github.io/version-2019/)
+- 2020: [https://puc-infovis.github.io/version-2020/](https://puc-infovis.github.io/version-2020/)
