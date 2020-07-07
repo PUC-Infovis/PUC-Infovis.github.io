@@ -13,6 +13,7 @@ title: Página Principal
 
 ## Versiones del curso
 
-- 2018: [https://puc-infovis.github.io/version-2018/](https://puc-infovis.github.io/version-2018/)
-- 2019: [https://puc-infovis.github.io/version-2019/](https://puc-infovis.github.io/version-2019/)
 - 2020: [https://puc-infovis.github.io/version-2020/](https://puc-infovis.github.io/version-2020/)
+- 2019: [https://puc-infovis.github.io/version-2019/](https://puc-infovis.github.io/version-2019/)
+- 2018: [https://puc-infovis.github.io/version-2018/](https://puc-infovis.github.io/version-2018/)
+
