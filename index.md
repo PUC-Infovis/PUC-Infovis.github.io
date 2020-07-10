@@ -7,7 +7,7 @@ title: Página Principal
 
 
 **Equipo Docente**
-- Profesor: Fernando Florenzano (faflorenzano@ing.puc.cl)
+- Docentes: [Denis Parra](http://web.ing.puc.cl/~dparra/) / Fernando Florenzano (faflorenzano@ing.puc.cl)
 - Ayudantes históricos: Nebil Kawas, Fernando Florenzano, Hernán Valdivieso, Cristobal Abarca, Vicente Valencia, Eugenio Herrera y Alfonso Irarrázaval
 - Textbook: [Visualization Analysis and Design by Munzner](https://www.cs.ubc.ca/~tmm/vadbook/)
 
