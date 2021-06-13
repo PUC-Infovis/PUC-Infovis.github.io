@@ -13,8 +13,8 @@ title: Página Principal
 
 ## Versiones del curso
 
-- 2021: [https://puc-infovis.github.io/version-2021/](https://puc-infovis.github.io/version-2021/)
-- - 2020: [https://puc-infovis.github.io/version-2020/](https://puc-infovis.github.io/version-2020/)
-- 2019: [https://puc-infovis.github.io/version-2019/](https://puc-infovis.github.io/version-2019/)
-- 2018: [https://puc-infovis.github.io/version-2018/](https://puc-infovis.github.io/version-2018/)
+- 2021 (Fernando Florenzano): [https://puc-infovis.github.io/version-2021/](https://puc-infovis.github.io/version-2021/)
+- 2020 (Fernando Florenzano): [https://puc-infovis.github.io/version-2020/](https://puc-infovis.github.io/version-2020/)
+- 2019 (Denis Parra): [https://puc-infovis.github.io/version-2019/](https://puc-infovis.github.io/version-2019/)
+- 2018 (Denis Parra): [https://puc-infovis.github.io/version-2018/](https://puc-infovis.github.io/version-2018/)
 
