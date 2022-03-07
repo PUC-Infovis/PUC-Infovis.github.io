@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 github_username: puc-infovis
 
-baseurl: /version-2021
-page-perma: /version-2021
+baseurl: /version-2022
+page-perma: /version-2022
 
 # Build settings
 markdown: kramdown
