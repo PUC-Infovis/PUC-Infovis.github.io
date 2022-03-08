@@ -8,7 +8,7 @@ title: Página Principal
 
 **Equipo Docente**
 - Docentes: [Denis Parra](http://web.ing.puc.cl/~dparra/) / Fernando Florenzano (faflorenzano@ing.puc.cl) / [Hernán Valdivieso](https://hernan4444.github.io/) (hfvaldivieso@uc.cl)
-- Ayudantes históricos: Nebil Kawas, Fernando Florenzano, Hernán Valdivieso, Cristobal Abarca, Vicente Valencia, Eugenio Herrera, Alfonso Irarrázaval, Daniela Flores, Francisca Ibarra, Raúl Álvarez, Fernando Duarte, Daniela Concha, Francisco Guiñez, Javiera Saavedra, Sebastián Carrasco, Tomás Gonzalez, Trinidad Carrasco.
+- Ayudantes históricos: Nebil Kawas, Fernando Florenzano, Hernán Valdivieso, Cristobal Abarca, Vicente Valencia, Eugenio Herrera, Alfonso Irarrázaval, Daniela Flores, Francisca Ibarra, Raúl Álvarez, Fernando Duarte, Daniela Concha, Francisco Guiñez, Javiera Saavedra, Sebastián Carrasco, Tomás Gonzalez y Trinidad Carrasco.
 - Textbook: [Visualization Analysis and Design by Munzner](https://www.cs.ubc.ca/~tmm/vadbook/)
 
 ## Versiones del curso
