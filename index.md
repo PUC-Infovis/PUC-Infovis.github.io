@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página Principal
+title: Ir al curso actual
 ---
 # Visualización de Información
 ## PUC Chile
