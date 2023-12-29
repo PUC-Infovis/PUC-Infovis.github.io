@@ -13,7 +13,7 @@ title: Ir al curso actual
 
 ## Versiones del curso
 
-- 20234-21 (Hernán Valdivieso): [https://puc-infovis.github.io/version-2024-1/](https://puc-infovis.github.io/version-2024-1/)
+- 2024-1 (Hernán Valdivieso): [https://puc-infovis.github.io/version-2024-1/](https://puc-infovis.github.io/version-2024-1/)
 - 2023-2 (Hernán Valdivieso): [https://puc-infovis.github.io/version-2023-2/](https://puc-infovis.github.io/version-2023-2/)
 - 2023-1 (Hernán Valdivieso): [https://puc-infovis.github.io/version-2023-1/](https://puc-infovis.github.io/version-2023-1/)
 - 2022 (Hernán Valdivieso): [https://puc-infovis.github.io/version-2022/](https://puc-infovis.github.io/version-2022/)
